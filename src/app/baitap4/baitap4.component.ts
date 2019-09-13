@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./baitap4.component.css']
 })
 export class Baitap4Component implements OnInit {
-  isEdit = true;
+  isEdit = true;  
   SearchText;
   page = 1;
   listproducts =
